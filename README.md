@@ -63,7 +63,7 @@
 
   <!-- Profile Picture -->
   <div style="margin:20px 0;">
-    <img src="https://i.imgur.com/n8N1KcA.jpeg" alt="Akash" style="width:250px; height:250px; border-radius:50%; border:3px solid #00ffe1; object-fit:cover;"/>
+    <img src="https://i.imgur.com/BDodsKU.jpeg" alt="Akash" style="width:250px; height:250px; border-radius:50%; border:3px solid #00ffe1; object-fit:cover;"/>
   </div>
 
   <!-- About Card -->
