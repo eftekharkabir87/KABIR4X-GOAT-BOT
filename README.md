@@ -119,7 +119,7 @@
   <div style="background:#111; padding:25px; border-radius:20px; box-shadow:0 0 15px #ffd700; max-width:800px; margin:auto;">
     <h2 style="color:#ffd700;">🌐 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h2>
     <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
-      <a href="https://facebook.com/arakashiam" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+      <a href="https://www.facebook.com/share/17uGq8qVZ9/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
       <a href="https://t.me/arakashiam" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
       <a href="https://github.com/mdakashproject" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
       <a href="https://youtube.com/@akashbotdev?si=2GOkhI1xiI3J8vsi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
