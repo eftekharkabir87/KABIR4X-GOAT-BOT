@@ -147,7 +147,7 @@
   <!-- Call to Action Card -->
   <div style="background:#111; padding:25px; border-radius:20px; box-shadow:0 0 15px #00ffe1; max-width:800px; margin:auto;">
     <p style="color:#00ffe1; font-size:16px; margin:0;">
-      💬 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: <strong>@arakashiam</strong>
+      
     </p>
   </div>
 
