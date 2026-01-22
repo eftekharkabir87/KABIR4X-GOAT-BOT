@@ -27,7 +27,9 @@ module.exports = {
 │ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐃𝐡𝐚𝐤𝐚 - Narayanganj 
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
 │ 📘 Facebook  : https://www.facebook.com/share/17uGq8qVZ9/
-│ 💬 Messenger: m.me/arakashiam
+│ 💬 Messenger: 💬 Direct Message Me  
+👤 Milon  
+🔗 m.me/61586540721576
 │ 📞 WhatsApp  : wa.me/01912603370
 ╰────────────────╯`;
 
@@ -36,7 +38,7 @@ module.exports = {
 
     if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir);
 
-    const imgLink = "https://i.imgur.com/FuSLmD6.jpeg";
+    const imgLink = "https://i.imgur.com/PYTLmI0.jpeg";
 
     const send = () => {
       api.sendMessage(
